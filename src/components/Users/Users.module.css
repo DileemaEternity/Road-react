@@ -1,0 +1,9 @@
+.Myphoto {
+    width: 100px;
+    height: 60px;
+    border-radius: 20%;
+}
+
+.selectedPage {
+    font-weight: bold;
+}
